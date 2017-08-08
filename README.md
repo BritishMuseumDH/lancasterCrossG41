@@ -8,8 +8,18 @@
 
 3D data for recreation of a British Museum object.
 
+![](the_lancaster_cross.gif)
+
+Stone cross fragment known as the Lancaster Cross. One arm missing; with runic inscription translated 'Pray for Cynibalth, Cuthbert'.
+
+Height: 920 millimetres Width: 400 millimetres Depth: 145 millimetres
+
+COL: [MCS364](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=98091&partId=1&object=21519&view=list&page=1)
+
 # LICENSE
 The contents of this repository are licensed under CC-BY-NC-SA
 
 # Credits
-Photographs and models by Daniel Pett <dpett@britishmuseum.org>, Digital Humanities Lead, British Museum
+Photographs and models by Daniel Pett <dpett@britishmuseum.org>, Digital Humanities Lead, British Museum.
+
+Created by Daniel Pett from 248 Sony A6000 images.
